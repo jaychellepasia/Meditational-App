@@ -1,4 +1,4 @@
-# medapp
+# Meditational App
 
 A new Flutter project.
 
